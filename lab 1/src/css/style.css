@@ -1,0 +1,7 @@
+body {
+  background: grey;
+}
+.div,
+.button {
+  display: inline-block;
+}
